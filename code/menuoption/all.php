@@ -13,7 +13,7 @@
   <div class="col-lg-3 col-sm-4">
     <div class="icon-box">
       <i class="ri-store-line" style="color: #ffbb2c;"></i>
-      <h3><a href="">Course</a></h3>
+      <h3 class="pas"><a href="">Course</a></h3>
     </div>
   </div>
   <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
