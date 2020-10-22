@@ -47,7 +47,8 @@
 
 </div>
 
-</div></section><!-- End Features Section -->
+</div>
+    </section>
 
     
 </body>
