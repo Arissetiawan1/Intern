@@ -9,7 +9,7 @@
 <body>
 <section id="features" class="features"><div class="container">
 
-<div class="row" data-aos="fade-up" data-aos-delay="300">
+<div class="row" data-aos="fade-up">
   <div class="col-lg-3 col-sm-4">
     <div class="icon-box">
       <i class="ri-store-line" style="color: #ffbb2c;"></i>
