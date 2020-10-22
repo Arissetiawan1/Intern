@@ -19,13 +19,12 @@
 			}else if(menu == "videos"){
 				$('.isi').load('videos.php');	
 
-      }else if(menu == "podcast"){
+      			}else if(menu == "podcast"){
 				$('.isi').load('podcast.php');
-
 
 			}else if(menu == "quotes"){
 				$('.isi').load('quotes.php');	
-      }else if(menu == "stories"){
+      			}else if(menu == "stories"){
 				$('.isi').load('stories.php');					
 			}
 		});
