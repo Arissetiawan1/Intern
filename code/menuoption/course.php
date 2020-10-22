@@ -17,7 +17,7 @@
   <div class="col-lg-3 col-sm-4" >
     <div class="icon-box">
       <i class="ri-store-line" style="color: #ffbb2c;"></i>
-      <h6><a href="">Assessment</a></h6>
+      <p><a href="">Assessment</a></p>
     </div>
   </div>
   <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
