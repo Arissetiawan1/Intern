@@ -17,38 +17,38 @@
   <div class="col-lg-3 col-sm-4" >
     <div class="icon-box">
       <i class="ri-store-line" style="color: #ffbb2c;"></i>
-      <h4><a href="">Assessment</a></h4>
+      <h4><a href="http://lms.transretail.co.id/course/index.php?categoryid=7">Assessment</a></h4>
     </div>
   </div>
   <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
     <div class="icon-box">
       <i class="ri-bar-chart-box-line" style="color: #5578ff;"></i>
-      <h4><a href="">Business and operations</a></h4>
+      <h4><a href="http://lms.transretail.co.id/course/index.php?categoryid=12">Business and operations</a></h4>
     </div>
   </div>
   <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
     <div class="icon-box">
       <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
-     <a href="#"> <h4>certification program</h4></a>
+    <h4> <a href="http://lms.transretail.co.id/course/index.php?categoryid=12">certification program</a></h4>
     </div>
   </div>
   <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
     <div class="icon-box">
       <i class="ri-paint-brush-line" style="color: #e361ff;"></i>
-      <a href="#"><h4>Leadership</h4></a>
+        <h4> <a href="http://lms.transretail.co.id/course/index.php?categoryid=12">Leadership</a></h4>
     </div>
   </div>
   <div class="col-lg-3 col-md-4 mt-4">
     <div class="icon-box">
       <i class="ri-database-2-line" style="color: #47aeff;"></i>
       
-      <a href="#"><h4>management</h4></a>
+     <h4> <a href="http://lms.transretail.co.id/course/index.php?categoryid=12">management</a></h4>
     </div>
   </div>
   <div class="col-lg-3 col-md-4 mt-4">
     <div class="icon-box">
       <i class="ri-gradienter-line" style="color: #ffa76e;"></i>
-      <h4><a href="">Personal Deveopment</a></h4>
+      <h4><a href="http://lms.transretail.co.id/course/index.php?categoryid=12">Personal Deveopment</a></h4>
     </div>
 </div>
  
